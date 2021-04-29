@@ -1,4 +1,4 @@
-# SubRevisionHistory
+# SubscriptionRevisionsByDate
 
 This repository contains an app (App.html) that queries a Rally Subscription for revisions made between two dates.  
 
